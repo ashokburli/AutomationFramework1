@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
-	// Declaration
+	// Declaration of objects
 	@FindBy(id="username")
 	private WebElement usernameTextBox;
 	
